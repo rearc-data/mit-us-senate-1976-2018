@@ -5,7 +5,7 @@ The source code outlining how this product gathers, transforms, revises and publ
 
 ## Main Overview
 
-This release contains information on the returns of United States Senate elections from 1976-2018. There's data for each county in the United States, how many votes were cast on a candidate who represtend their political party(i.e. Democrat, Republican, etc.), and total votes for each county. Included in this data is also various information on each county.
+TThis release contains information on the returns of United States Senate elections from 1976-2018. There's data for each county in the United States, how many votes were cast on a candidate who represented their political party (i.e. Democrat, Republican, etc.), and total votes for each county. Included in this data is also various information on each county.
   
 The included data is provided by Harvard Dataverse, which contains almost 100,000 datasets on various subjects. This specific dataset is maintained by the MIT Election Data and Science Lab (MEDSL). If you want to learn more or explore other datasets, visit the [Harvard Dataverse homepage](https://dataverse.harvard.edu/) and the [MEDSL homepage](https://electionlab.mit.edu/). 
 
