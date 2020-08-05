@@ -1,4 +1,4 @@
-U.S. Senate 1976–2018 | Harvard Dataverse/MEDSL
+U.S. Senate 1976–2018 | Harvard Dataverse / MEDSL
 =========================
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/mit-us-senate-1976-2018](https://github.com/rearc-data/mit-us-senate-1976-2018).
