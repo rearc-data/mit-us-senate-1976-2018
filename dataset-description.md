@@ -1,0 +1,1 @@
+This release contains information on the returns of United States Senate elections from 1976-2018. There's data for each county in the United States, how many votes were cast on a candidate who represented their political party (i.e. Democrat, Republican, etc.), and total votes for each county. Included in this data is also various information on each county.
