@@ -5,7 +5,7 @@
 U.S. Senate 1976–2018 | Harvard Dataverse / MEDSL
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-u4onyebwxe3ak](https://aws.amazon.com/marketplace/pp/prodview-u4onyebwxe3ak).
 
 ## Main Overview
 
